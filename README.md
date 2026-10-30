@@ -25,7 +25,7 @@ Prototipo mínimo de 3 historias de usuario del sprint actual integradas con éx
 
 ---
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 schema_los_robles.sql     ← script SQL original (fuente de verdad del esquema)
