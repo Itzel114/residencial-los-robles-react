@@ -3,10 +3,10 @@
 > ** Visión del Proyecto:** Este prototipo trasciende los requerimientos básicos al integrar una arquitectura **End-to-End completamente funcional**, desarrollada bajo una estricta metodología ágil (Scrum). Destaca por su enfoque en la experiencia de usuario (UI/UX responsiva), la gestión estructurada de bases de datos relacionales y la implementación de seguridad en la autenticación.
 
 ## Miembros del Equipo (Equipo 3)
+
+* **ITZEL ARACELI LARIOS TADILLO** 
 * **JOAB ELIHU GALINDO LÓPEZ** 
 * **FRANCISCO GERARDO IBARRA PÉREZ** 
-* **ITZEL ARACELI LARIOS TADILLO** 
-
 ---
 
 ## Sprint Ejecutado y Logros Alcanzados
